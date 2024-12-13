@@ -1,5 +1,6 @@
 # Generatore di Password Casuale
-<img width="443" alt="Screenshot 2024-12-06 alle 12 15 30" src="https://github.com/user-attachments/assets/6b38b1ae-327b-4cd0-9494-7d80702e2534">
+
+<img width="395" alt="Anteprima Generatore di Password" src="https://github.com/user-attachments/assets/d80c8937-d5be-45a8-bc2d-0f7244c73c31" />
 
 # Dependencies:
 
