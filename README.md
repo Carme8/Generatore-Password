@@ -1,6 +1,7 @@
 # Generatore di Password Casuale
 
-<img width="395" alt="Anteprima Generatore di Password" src="https://github.com/user-attachments/assets/d80c8937-d5be-45a8-bc2d-0f7244c73c31" />
+<img width="546" alt="Anteprima Generatore di Password" src="https://github.com/user-attachments/assets/da707cb7-4203-45c0-ba30-fd97a1c9034b" />
+
 
 # Dependencies:
 
